@@ -332,6 +332,10 @@ header .navbar ul li a:hover{
     color: var(--yellow);
     font-size: 3rem;
 }
+.copyright{
+    margin-left: 300px;
+    font-size: .6rem;
+}
 
 /* media queries */
 
