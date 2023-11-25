@@ -327,6 +327,11 @@ header .navbar ul li a:hover{
     color: var(--yellow);
     width: 20px;
 }
+.social-media-icons i{
+    margin: 2rem;
+    color: var(--yellow);
+    font-size: 3rem;
+}
 
 /* media queries */
 
